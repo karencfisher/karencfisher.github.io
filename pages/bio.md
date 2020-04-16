@@ -9,3 +9,5 @@ layout: default
 ### I was born
 
 And the rest is to be done...
+
+[Back to home]('/')

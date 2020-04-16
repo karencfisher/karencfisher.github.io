@@ -11,8 +11,8 @@ For long have people been fascinated with unknown and hidden subjects: UFOs, ali
 
 With such thoughts in mind, I have undertaken, as a beginning student of data science, an exploration of a dataset compiling slightly over a century of UFO sightings as collected by the National UFO Reporting Center (NUFORC).
 
-<a target=_blank href='https://medium.com/@karenfisher_88874/close-encounters-of-the-data-kind-3a85c72f8400'>Read more at Medium.com</a>
+[Read more at Medium.com](https://medium.com/@karenfisher_88874/close-encounters-of-the-data-kind-3a85c72f8400){:target="_blank"}
 
-<a target=_blank href='../ufosightings/sightings.html'>View the interactive map</a>
+[View the interactive map](../ufosightings/sightings.html){:target="_blank"}
 
-<a target=_blank href='https://github.com/karencfisher/ufosightings/blob/master/NUFORC_ufo_dataset1.ipyn'>Visit the iPython notebook</a>
+[Visit the iPython notebook](https://github.com/karencfisher/ufosightings/blob/master/NUFORC_ufo_dataset1.ipyn){:target="_blank"}

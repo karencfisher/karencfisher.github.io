@@ -15,4 +15,4 @@ With such thoughts in mind, I have undertaken, as a beginning student of data sc
 
 [View the interactive map](../ufosightings/sightings.html){:target="_blank"}
 
-[Visit the iPython notebook](https://github.com/karencfisher/ufosightings/blob/master/NUFORC_ufo_dataset1.ipyn){:target="_blank"}
+[Visit the iPython notebook](https://github.com/karencfisher/ufosightings/blob/master/NUFORC_ufo_dataset1.ipynb){:target="_blank"}

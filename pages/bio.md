@@ -1,4 +1,9 @@
-![Me](./assets/img/logo_me.png)
+---
+layout: default
+---
+
+
+![Me](../assets/img/logo_me.png)
 
 ###I was born
 
